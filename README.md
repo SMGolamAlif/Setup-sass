@@ -1,5 +1,3 @@
-# Setup-sass
-
 first, open the project folder in vs code and go to vs code terminal and also 
 install node js on pc properly.
 
@@ -36,4 +34,9 @@ command: npm run compile:sass
   
 
 
+another way.
       
+1) if you include package.json then type this command
+command: npm-install
+
+good to go
