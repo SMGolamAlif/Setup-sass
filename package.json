@@ -1,7 +1,7 @@
 {
-  "name": "trillo",
+  "name": "type name",
   "version": "1.0.0",
-  "description": "",
+  "description": "type discription",
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
