@@ -34,4 +34,9 @@ command: npm run compile:sass
   
 
 
+another way.
       
+1) if you include package.json then type this command
+command: npm-install
+
+good to go
